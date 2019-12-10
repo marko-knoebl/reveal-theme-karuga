@@ -1,7 +1,7 @@
 {
   "name": "@karuga/reveal-theme-karuga",
   "description": "reveal.js presentation theme used by Marko Knöbl",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Marko Knöbl",
   "license": "ISC",
   "devDependencies": {
