@@ -82,6 +82,11 @@ section.has-dark-background {
 .reveal ul ul {
   margin-left: initial;
 }
+.reveal section img {
+  margin: initial;
+  border: initial;
+  box-shadow: initial;
+}
 
 // customizations / overrides
 .reveal .slides {
